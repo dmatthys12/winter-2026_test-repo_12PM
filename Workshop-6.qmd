@@ -1,0 +1,16 @@
+---
+title: "Workshop-test-repo-12OM"
+author: "Daniel Matthys"
+date: "2026-02-20"
+format: html
+editor: visual
+---
+
+##  Set up chunk
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+
+data(pie_crab)
+```
+
