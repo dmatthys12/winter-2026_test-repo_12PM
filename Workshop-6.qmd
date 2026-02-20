@@ -19,7 +19,6 @@ data(pie_crab) #importing pie_crab data
 
 ```{r}
 #| label: latitude size plot
-#| message: false
 #base layer for plot
 ggplot(data = pie_crab, #data is pie_crab
        aes(x = latitude, #x is latitude
